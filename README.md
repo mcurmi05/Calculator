@@ -1,1 +1,1 @@
-Cheeky calculator app I developed in roughly 3 hours to test my new javascript skills. Learnt a few new techniques in the process.
+Cheeky calculator app I developed to practice my new javascript skills. Learnt a few new techniques in the process, used HTML, CSS and JavaScript to develop this calculator.
