@@ -7,7 +7,7 @@ body {
     width: 125vw;
     height: 125vh;
     overflow-x:hidden;
-    overflow-y:hidden;
+    overflow-y:auto;
     margin:20px;
     min-height:423px;
 }
